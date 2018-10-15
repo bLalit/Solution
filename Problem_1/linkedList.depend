@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1539490105 source:c:\users\lalit\desktop\amat\linked-list\linkedlist\main.cpp
+	<iostream>
+	"linkedList.h"
+
+1539491107 source:c:\users\lalit\desktop\amat\linked-list\linkedlist\linkedlist.cpp
+	"linkedList.h"
+
+1539491584 c:\users\lalit\desktop\amat\linked-list\linkedlist\linkedlist.h
+	<iostream>
+	<cstddef>
+	<mutex>
+
+1539491107 source:c:\users\lalit\desktop\jatin final\linked-list\linkedlist\linkedlist.cpp
+	"linkedList.h"
+
+1539491584 c:\users\lalit\desktop\jatin final\linked-list\linkedlist\linkedlist.h
+	<iostream>
+	<cstddef>
+	<mutex>
+
+1539490105 source:c:\users\lalit\desktop\jatin final\linked-list\linkedlist\main.cpp
+	<iostream>
+	"linkedList.h"
+
+1539491107 source:c:\users\lalit\desktop\send to jatin\linked-list\linkedlist\linkedlist.cpp
+	"linkedList.h"
+
+1539491584 c:\users\lalit\desktop\send to jatin\linked-list\linkedlist\linkedlist.h
+	<iostream>
+	<cstddef>
+	<mutex>
+
+1539560586 source:c:\users\lalit\desktop\send to jatin\linked-list\linkedlist\main.cpp
+	<iostream>
+	"linkedList.h"
+
+1539491107 source:c:\users\lalit\desktop\amat hetali\linked-list\linkedlist\linkedlist.cpp
+	"linkedList.h"
+
+1539568532 c:\users\lalit\desktop\amat hetali\linked-list\linkedlist\linkedlist.h
+	<iostream>
+	<cstddef>
+	<mutex>
+
+1539560678 source:c:\users\lalit\desktop\amat hetali\linked-list\linkedlist\main.cpp
+	<iostream>
+	"linkedList.h"
+
+1539577359 source:c:\users\lalit\desktop\solution\problem_1\linkedlist.cpp
+	"linkedList.h"
+
+1539576876 c:\users\lalit\desktop\solution\problem_1\linkedlist.h
+	<iostream>
+	<cstddef>
+	<mutex>
+
+1539579977 source:c:\users\lalit\desktop\solution\problem_1\main.cpp
+	<iostream>
+	<stdlib.h>
+	"linkedList.h"
+

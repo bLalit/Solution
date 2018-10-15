@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1539467134 source:c:\users\lalit\desktop\amat\2\two\main.cpp
+	<iostream>
+	<stdlib.h>
+	<cstdio>
+	<cstring>
+	<string>
+	<cmath>
+	<iomanip>
+
+1539554330 source:c:\users\lalit\desktop\jatin final\2\two\main.cpp
+	<iostream>
+	<cmath>
+
+1539570902 source:c:\users\lalit\desktop\amat hetali\2\two\main.cpp
+	<iostream>
+	<cmath>
+
+1539570994 source:c:\users\lalit\desktop\solution\problem_2\main.cpp
+	<iostream>
+	<stdlib.h>
+	<cmath>
+
