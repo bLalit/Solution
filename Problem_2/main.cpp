@@ -28,7 +28,6 @@ int main()
     int bin[n][8] = {0};          // 2D array for each 8-bit binary number
     int countofOne[n] = {0};      // to count the number of ones for each binary number for setting even/odd parity
     int temp=0;
-    //int tempCounter[n] = 0;
 
         for(int i=0; i<n ; i++)
         {
@@ -38,13 +37,10 @@ int main()
             {
                 if(temp%2 == 0)
                     bin[i][j] = 0;
-                   // tempCounter++;
-
                 else
                 {
                     bin[i][j] = 1;
                     countofOne[i] += 1; //counting the number of ones
-                   // tempCounter++;
                 }
 
                 temp = temp/2;
